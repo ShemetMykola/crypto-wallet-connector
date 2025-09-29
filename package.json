@@ -20,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://shemetmykola.github.io/crypto-wallet-connector",
+  "homepage": "https://shemetmykola.github.io/crypto-wallet-connector"
 }
