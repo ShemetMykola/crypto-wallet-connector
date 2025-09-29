@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/crypto-wallet-connector/static/js/main.5b245019.js",
+    "index.html": "/crypto-wallet-connector/index.html",
+    "main.5b245019.js.map": "/crypto-wallet-connector/static/js/main.5b245019.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5b245019.js"
+  ]
+}
