@@ -21,3 +21,4 @@ https://<YOUR_GITHUB_USERNAME>.github.io/crypto-wallet-connector
 ## 📝 License
 
 MIT
+
